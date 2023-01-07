@@ -35,7 +35,7 @@ import java.util.*;
                 System.out.println("Welcome to our portal");
                 System.out.println("Select any one of the options to move forward with registeration");
                 System.out.println("1.Passport");
-                System.out.println("2.License and Pan Card");
+                System.out.println("2.License and Pan Card ");
                 System.out.println("3.License and Voter ID");
                 System.out.println("4.Pan Card and voter Id ");
                 Scanner sc=new Scanner(System.in);
